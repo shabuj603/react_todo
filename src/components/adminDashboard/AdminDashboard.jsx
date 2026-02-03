@@ -18,7 +18,7 @@ const AdminDashboard = () => {
                     <Card title="Completed" value="340" />
                 </div>               
                 <TodosTable/>   
-                <h1>to app</h1>          
+                <h1>todo app</h1>          
             </div>
         </div>
       
